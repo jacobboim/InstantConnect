@@ -22,12 +22,8 @@ function Login() {
   return (
     <div className="login">
       <div className="login__container">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-          alt=""
-        />
         <div className="login__text">
-          <h2>Sign in to my WhatsApp Clone for Desktop</h2>
+          <h2>Sign in to InstantConnect for Desktop</h2>
         </div>
         <Button onClick={signIn}>Sign in With Google</Button>
       </div>
