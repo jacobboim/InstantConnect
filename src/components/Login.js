@@ -23,7 +23,7 @@ function Login() {
     <div className="login">
       <div className="login__container">
         <div className="login__text">
-          <h2>Sign in to InstantConnect for Desktop</h2>
+          <h2>Sign in to Instant Connect for Desktop</h2>
         </div>
         <Button onClick={signIn}>Sign in With Google</Button>
       </div>
